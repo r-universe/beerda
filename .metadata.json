@@ -1,0 +1,10 @@
+[
+  {
+    "package": "lfl",
+    "oncran": true
+  },
+  {
+    "package": "rmake",
+    "oncran": true
+  }
+]
