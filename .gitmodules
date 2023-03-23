@@ -8,6 +8,11 @@
 	url = https://github.com/beerda/lfl
 	shallow = true
 	registered = true
+[submodule "paircompviz"]
+	path = paircompviz
+	url = https://git.bioconductor.org/packages/paircompviz
+	shallow = true
+	registered = true
 [submodule "rmake"]
 	path = rmake
 	url = https://github.com/beerda/rmake
