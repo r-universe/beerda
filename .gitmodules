@@ -5,6 +5,9 @@
 [submodule "lfl"]
 	path = lfl
 	url = https://github.com/beerda/lfl
+[submodule "nuggets"]
+	path = nuggets
+	url = https://github.com/beerda/nuggets
 [submodule "paircompviz"]
 	path = paircompviz
 	url = https://git.bioconductor.org/packages/paircompviz
